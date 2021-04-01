@@ -9,6 +9,6 @@
     - Comment installer Maven(http://objis.com/tutoriel-maven-n1-installation-et-phases/)
 
 # Test projet
-1. Tout d'abord se postinoner sur la racine du projet
+1. Tout d'abord se postionner sur la racine du projet(etablissementsocolaire-master)
 2. Ouvrir un terminal depuis la racine du fichier
 3. Exécuter la commande : mvn clean test
