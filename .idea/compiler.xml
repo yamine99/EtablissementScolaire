@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EtablissementScolaire-presentation" />
+        <module name="EtablissementScolaire-domaine" />
+        <module name="EtablissementScolaire-dao" />
+        <module name="EtablissementScolaire-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="EtablissementScolaire" target="11" />
+      <module name="EtablissementScolaire-dao" target="1.7" />
+      <module name="EtablissementScolaire-domaine" target="1.7" />
+      <module name="EtablissementScolaire-presentation" target="8" />
+      <module name="EtablissementScolaire-service" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

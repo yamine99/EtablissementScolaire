@@ -1,0 +1,5 @@
+# Project exclude paths
+/EtablissementScolaireMaven-master/EtablissementScolaire-dao/target/
+/EtablissementScolaireMaven-master/EtablissementScolaire-domaine/target/
+/EtablissementScolaireMaven-master/EtablissementScolaire-presentation/target/
+/EtablissementScolaireMaven-master/EtablissementScolaire-service/target/

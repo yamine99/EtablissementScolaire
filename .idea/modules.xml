@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EtablissementScolaireMaven-master/EtablissementScolaire.iml" filepath="$PROJECT_DIR$/EtablissementScolaireMaven-master/EtablissementScolaire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EtablissementScolaireMaven-master/EtablissementScolaire-dao/EtablissementScolaire-dao.iml" filepath="$PROJECT_DIR$/EtablissementScolaireMaven-master/EtablissementScolaire-dao/EtablissementScolaire-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EtablissementScolaireMaven-master/EtablissementScolaire-domaine/EtablissementScolaire-domaine.iml" filepath="$PROJECT_DIR$/EtablissementScolaireMaven-master/EtablissementScolaire-domaine/EtablissementScolaire-domaine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EtablissementScolaireMaven-master/EtablissementScolaire-presentation/EtablissementScolaire-presentation.iml" filepath="$PROJECT_DIR$/EtablissementScolaireMaven-master/EtablissementScolaire-presentation/EtablissementScolaire-presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EtablissementScolaireMaven-master/EtablissementScolaire-service/EtablissementScolaire-service.iml" filepath="$PROJECT_DIR$/EtablissementScolaireMaven-master/EtablissementScolaire-service/EtablissementScolaire-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EtablissementScolaireMaven-master.iml" filepath="$PROJECT_DIR$/.idea/EtablissementScolaireMaven-master.iml" />
+    </modules>
+  </component>
+</project>
