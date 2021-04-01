@@ -6,7 +6,7 @@
 # Pré-requis
 1. Une JDK 15
 2. Le framework maven installé
-    - comment installer Maven(http://objis.com/tutoriel-maven-n1-installation-et-phases/)
+    - Comment installer Maven(http://objis.com/tutoriel-maven-n1-installation-et-phases/)
 
 # Test projet
 1. Tout d'abord se postinoner sur la racine du projet
